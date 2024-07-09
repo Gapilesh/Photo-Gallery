@@ -1,2 +1,3 @@
 # Photo-Gallery
-CSS FLEXBOX PHOTO GALLERY
+CSS Flexbox Photo Gallery
+https://gapilesh.github.io/Photo-Gallery/
